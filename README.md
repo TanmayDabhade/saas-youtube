@@ -1,3 +1,10 @@
+
+I am learning to build a full end to end website with NextJS, and shadcn and more technologies. Updates soon.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
